@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://maddy-hub.github.io/csb-qnmvzv/static/css/main.faaebafd.chunk.css",
+    "main.js": "https://maddy-hub.github.io/csb-qnmvzv/static/js/main.bd9fb926.chunk.js",
+    "main.js.map": "https://maddy-hub.github.io/csb-qnmvzv/static/js/main.bd9fb926.chunk.js.map",
+    "runtime-main.js": "https://maddy-hub.github.io/csb-qnmvzv/static/js/runtime-main.ad1aab7d.js",
+    "runtime-main.js.map": "https://maddy-hub.github.io/csb-qnmvzv/static/js/runtime-main.ad1aab7d.js.map",
+    "static/js/2.321d9bdb.chunk.js": "https://maddy-hub.github.io/csb-qnmvzv/static/js/2.321d9bdb.chunk.js",
+    "static/js/2.321d9bdb.chunk.js.map": "https://maddy-hub.github.io/csb-qnmvzv/static/js/2.321d9bdb.chunk.js.map",
+    "index.html": "https://maddy-hub.github.io/csb-qnmvzv/index.html",
+    "static/css/main.faaebafd.chunk.css.map": "https://maddy-hub.github.io/csb-qnmvzv/static/css/main.faaebafd.chunk.css.map",
+    "static/js/2.321d9bdb.chunk.js.LICENSE.txt": "https://maddy-hub.github.io/csb-qnmvzv/static/js/2.321d9bdb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad1aab7d.js",
+    "static/js/2.321d9bdb.chunk.js",
+    "static/css/main.faaebafd.chunk.css",
+    "static/js/main.bd9fb926.chunk.js"
+  ]
+}
